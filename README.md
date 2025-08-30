@@ -4,7 +4,7 @@ This project showcases a detailed and interactive dashboard built using Microsof
 
 ![Dashboard Screenshot](https://github.com/Anurag-Deb/Amazon-dashboard/blob/main/Screenshot%202025-06-06%20141003.png?raw=true)
 
-🔍 Key Features of the Dashboard:
+##🔍 Key Features of the Dashboard:
 
 Total Shows & Global Coverage:
 The dashboard highlights that Amazon Prime Video has a total of 9,687 shows available across 87 countries. This allows users to get a clear idea of the platform’s international reach and presence.
