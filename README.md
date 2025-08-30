@@ -7,26 +7,28 @@ This project showcases a detailed and interactive dashboard built using Microsof
 **🔍 Key Features of the Dashboard:**
 ---
 
-Total Shows & Global Coverage:
+**Total Shows & Global Coverage:**
 The dashboard highlights that Amazon Prime Video has a total of 9,687 shows available across 87 countries. This allows users to get a clear idea of the platform’s international reach and presence.
 
-Genre Distribution:
+**Genre Distribution:**
 A pie chart illustrates the genre breakdown, showing that Drama, Comedy, and Documentary are the most prevalent categories. This helps in understanding the content preference and focus areas of Prime Video.
 
-Content Type Split:
+**Content Type Split:**
 A donut chart shows the proportion of content types, where approximately 81% of the catalog is TV Shows and the remaining 19% is Movies. This metric emphasizes the platform's heavy leaning toward episodic content.
 
-Show Duration Analysis:
+**Show Duration Analysis:**
 A bar chart displays the distribution of shows based on duration or number of seasons, showing that a majority of shows are single-season content, followed by two-season shows and full-length movies ranging from 89 to 92 minutes.
 
-Ratings by Genre:
+**Ratings by Genre:**
 A line chart visualizes average viewer ratings across genres, with Comedy and Documentaries rated highest, while Historical and Adventure genres tend to have lower average ratings.
 
-Release Year Trend:
+**Release Year Trend:**
 A line graph indicates how the number of shows released per year has evolved, showing a significant increase in content output after the 2000s, peaking in recent years.
 
-Country-wise Show Distribution:
+**Country-wise Show Distribution:**
 An interactive map highlights the geographical distribution of content, indicating key content-producing regions like the United States and India.
 
-📁 Tools Used:
+**📁 Tools Used:**
+---
+
 Power BI for data visualization
